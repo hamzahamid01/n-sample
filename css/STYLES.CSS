@@ -1,0 +1,15 @@
+body{
+  background-image:url(https://i.pinimg.com/originals/f2/29/ce/f229ce8553bae100b62bdb099c3ebb2e.jpg);
+background-repeat: no-repeat;
+  background-size: 100%;
+}
+h1{
+  font-family: 'Pacifico', cursive;
+  color: white;
+}
+h2{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 50px;
+  color: green;
+  text-decoration: underline;
+}
